@@ -1,5 +1,6 @@
 
 import streamlit as st
+import pandas as pd
 def page2():
     st.title("Second page")
 
